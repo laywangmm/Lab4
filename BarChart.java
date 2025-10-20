@@ -1,9 +1,11 @@
 import java.util.Random;
 /**
- * Write a description of class BarChart here.
+ * This program generates 3 random numbers betweek 0 and 999 and prints eahc number on a bar char
+ * For every 100 in a number it prints one *.
+ * If number is less than 100 it prints <100 no stars.
  *
  * @author Layipaun Wang
- * @version v1.0
+ * @version v1.1
  */
 public class BarChart
 {

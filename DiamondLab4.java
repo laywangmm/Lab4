@@ -1,9 +1,10 @@
 import java.util.Scanner;
 /**
- * Write a description of class DiamondLab4 here.
+ * Asks for an odd integer width and prints out a diamond out of "*".
+ * If it is an even number the program adds 1 to make it odd before printing the diamond shape
  *
  * @author Layipaun Wang
- * @version v1.0
+ * @version v1.1
  */
 public class DiamondLab4
 {

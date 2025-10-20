@@ -1,7 +1,9 @@
 import java.util. Scanner;
 /**
+ * Checks whether reversing the first letter of a word then compares it the the origional. Asks the user to quit and displays whether the word works or not.
+ * 
  * @author Layipaun Wang
- * @version v1.1
+ * @version v1.2
  * @since 10/13/25
  */
 public class ReverseWord

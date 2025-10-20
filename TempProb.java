@@ -1,9 +1,11 @@
 import java.util.Scanner;
 /**
- * Description
+ * Description: Converts temperaturs between Fahrenheit and Celcius
+ * Asks the user for a number following by F or C to perform a temp conversion. 
+ * Then the results displays.
  * 
  * @author Layipaun Wang
- * @version v1.0
+ * @version v1.1
  * @since 10/12/25
  */
 public class TempProb {

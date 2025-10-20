@@ -1,9 +1,9 @@
 import javax.swing.JOptionPane;
 /**
- * 
+ * @description using JOptionPane to promt a string, then counting how many times a character appears in a string. The it displays the results in a dialog box
  *
  * @author Layipaun Wang
- * @version v1.0
+ * @version v1.1
  * @since 10/12/25
  */
 public class ProgChall5 {
