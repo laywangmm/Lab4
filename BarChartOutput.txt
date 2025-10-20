@@ -1,0 +1,9 @@
+Number 1 is: 157
+Number 2 is: 612
+Number 3 is: 606
+
+NUMBER BAR CHART
+Number 1: *
+
+Number 2: ******
+Number 3: ******
